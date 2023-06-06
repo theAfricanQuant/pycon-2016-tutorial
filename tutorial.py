@@ -318,7 +318,7 @@ len(X_train_tokens)
 
 
 # examine the first 50 tokens
-print(X_train_tokens[0:50])
+print(X_train_tokens[:50])
 
 
 # examine the last 50 tokens
